@@ -16,4 +16,3 @@ for i in vlr:
 dicionario = dict(zip(est, porcentagem))
 
 print('Porcentagem de cada estado: ' + str(dicionario))
-#procurar sobre o split
